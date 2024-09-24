@@ -27,7 +27,9 @@ The shortcuts I use most often are:
 - Ctrl-C (Copy)
 - Ctrl-V (Paste)
 - Ctrl-Backspace (Delete word before cursor)
+
 Some Shortcuts I need to use more often are
+
 - Alt + left_arrow/right_arrow (go back/forward)
 - Ctrl-G (Go to a certain area)
 - Win-D (Display and hide the desktop)
