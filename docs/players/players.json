@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "LeBron James",
+    "Sport": "Basketball",
+    "TeamName": "Lakers",
+    "TeamCity": "Los Angeles",
+    "Position": "Forward",
+    "Age": 38
+  },
+  {
+    "Name": "Lionel Messi",
+    "Sport": "Soccer",
+    "TeamName": "Inter Miami",
+    "TeamCity": "Miami",
+    "Position": "Forward",
+    "Age": 36
+  },
+  {
+    "Name": "Serena Williams", // This is a STRING
+    "Sport": "Tennis", // This is a STRING
+    "TeamName": null, // This is a NULL
+    "TeamCity": null,// This is a NULL
+    "Position": "Player", // This is a STRING
+    "Age": 41 // This is an NUMBER
+  },
+  {
+    "Name": "Tom Brady",
+    "Sport": "Football",
+    "TeamName": "Buccaneers",
+    "TeamCity": "Tampa Bay",
+    "Position": "Quarterback",
+    "Age": 46
+  }
+]
